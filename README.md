@@ -1,8 +1,8 @@
-#myFirstWebsite
+**myFirstWebsite**
 
 This is my first website built at **Moringa School**
 
-###By James Nyamweya
+By James Nyamweya
 
 #### Description
 
